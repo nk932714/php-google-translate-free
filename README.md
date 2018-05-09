@@ -32,6 +32,9 @@ $result = $trans->translate($source, $target, $text);
 
 echo $result;
 ```
+```
+or use [yoursite name]/index.php?word=[your word];
+```
 
 ## Demo
 
