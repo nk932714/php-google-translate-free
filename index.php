@@ -2,8 +2,8 @@
 require_once ('vendor/autoload.php');
 use \Statickidz\GoogleTranslate;
 
-$source = 'es';
-$target = 'en';
+$source = '#';
+$target = 'hi';
 $text = 'verdadero';
 
 $trans = new GoogleTranslate();
